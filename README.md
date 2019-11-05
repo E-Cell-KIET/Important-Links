@@ -1,4 +1,6 @@
 # Important-Links
+# git Cheat Sheet - 
+https://education.github.com/git-cheat-sheet-education.pdf
 
 # Resource for C++ -
 http://www.cplusplus.com/doc/tutorial/
